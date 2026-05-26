@@ -1,0 +1,13 @@
+{
+  "name": "minji-advanced-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "16:9 team dashboard with Google login, admin work sharing, chat, sticky notes, and settlement analytics.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
